@@ -28,3 +28,33 @@ PaaS (Plataforma como Serviço): ambiente para desenvolvimento de aplicações.
 
 SaaS (Software como Serviço): aplicativos prontos, como Gmail ou Office 365.
 
+Redução de custos
+
+Sem necessidade de comprar e manter servidores físicos.
+
+Modelo de pagamento conforme o uso.
+
+Escalabilidade e Elasticidade
+
+Aumenta ou reduz os recursos de forma automática, conforme a demanda.
+
+Alta disponibilidade
+
+Serviços com garantia de funcionamento contínuo (SLA elevado).
+
+Agilidade e inovação
+
+Implantação rápida de soluções e fácil teste de novas tecnologias.
+
+Acesso remoto e mobilidade
+
+Acesse sistemas e dados de qualquer lugar, a qualquer hora.
+
+Segurança
+
+Criptografia, backups automáticos e controle de acessos robusto.
+
+Manutenção simplificada
+
+Atualizações e suporte são feitos pelo provedor da nuvem.
+
