@@ -54,7 +54,26 @@ Segurança
 
 Criptografia, backups automáticos e controle de acessos robusto.
 
-Manutenção simplificada
 
-Atualizações e suporte são feitos pelo provedor da nuvem.
+
+
+
+Criando maquina virtual
+Microsoft Azure permite que você execute sistemas operacionais e aplicativos em uma infraestrutura de nuvem altamente escalável e segura. Por meio do portal Azure, CLI, é possível configurar VMs com diferentes sistemas operacionais (como Windows ou Linux), tamanhos de CPU e memória, discos e regras de rede. Essa prática é essencial para testes, desenvolvimento, hospedagem de aplicações ou ambientes corporativos.
+
+Durante o processo de criação, você escolhe:
+
+A imagem do sistema operacional
+
+O tamanho da VM (recursos de hardware)
+
+Autenticação (senha ou chave SSH)
+
+Configurações de rede e segurança
+
+Disco de armazenamento (HDD/SSD)
+
+Com poucos cliques, sua máquina virtual está pronta para uso, com alta disponibilidade e possibilidade de escalonamento conforme a demanda.
+
+
 
