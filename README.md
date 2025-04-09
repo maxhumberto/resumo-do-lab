@@ -75,5 +75,14 @@ Disco de armazenamento (HDD/SSD)
 
 Com poucos cliques, sua máquina virtual está pronta para uso, com alta disponibilidade e possibilidade de escalonamento conforme a demanda.
 
+Configurando uma instância de Banco de Dados na Azure
+Ir no Banco de dadps SQL
+Criar recurso de banco de dados
+Escolher o tipo (ex: Azure SQL), versão, nome do servidor e banco, login e senha.
+Configurar desempenho
+Selecionar o plano de preços, quantidade de vCores, armazenamento e redundância.
+Configurar desempenho
+Selecionar o plano de preços, quantidade de vCores, armazenamento e redundância.
+
 
 
